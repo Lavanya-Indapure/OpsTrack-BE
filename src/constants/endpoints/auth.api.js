@@ -1,4 +1,4 @@
-const { API_BASE } = require('./api.base');
+const { API_BASE } = require("./api.base");
 
 const AUTH_API = {
   LOGIN: `${API_BASE}/auth/login`,
